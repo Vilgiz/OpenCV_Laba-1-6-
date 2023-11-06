@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Projects/opencv_cpp/build",
+  "command": "C:\\Users\\Vilgiz\\Desktop\\mingw64\\bin\\g++.exe  @CMakeFiles/opencv_cpp.dir/includes_CXX.rsp -g -o CMakeFiles\\opencv_cpp.dir\\main.cpp.obj -c C:\\Projects\\opencv_cpp\\main.cpp",
+  "file": "C:/Projects/opencv_cpp/main.cpp",
+  "output": "CMakeFiles/opencv_cpp.dir/main.cpp.obj"
+}
+]

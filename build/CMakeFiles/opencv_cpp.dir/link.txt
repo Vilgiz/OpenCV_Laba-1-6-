@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\opencv_cpp.dir/objects.a
+C:\Users\Vilgiz\Desktop\mingw64\bin\ar.exe qc CMakeFiles\opencv_cpp.dir/objects.a @CMakeFiles\opencv_cpp.dir\objects1.rsp
+C:\Users\Vilgiz\Desktop\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\opencv_cpp.dir/objects.a -Wl,--no-whole-archive -o opencv_cpp.exe -Wl,--out-implib,libopencv_cpp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\opencv_cpp.dir\linkLibs.rsp
